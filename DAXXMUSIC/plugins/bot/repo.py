@@ -19,7 +19,7 @@ async def start(_, msg):
     buttons = [
         [
           InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/KANHA_TECH_SUPPORT"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/LOCO-PILOT/ROYMUSIC")
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/KANHAxBOSS/KANHABOT.git")
           ],
     ]
     
